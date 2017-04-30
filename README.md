@@ -7,7 +7,7 @@ MSTU-5003 Final Project
 - By their third year, most new beekeepers have lost a lot of bees. The queen dies, and the colony collapses.
 - At this point, many get frustrated, and most beekeepers don’t last more than three years as a result
 
-## Purpose:
+## Purpose
 - This site is designed to help encourage these frustrated beekeepers, to support them by offering helpful suggestions and insights that will help these beekeepers.
 
 ## Users
