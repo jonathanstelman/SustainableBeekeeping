@@ -64,13 +64,18 @@ Resources that will help intermediate to advanced beekeepers implement sustainab
 - Links to social media sites (Twitter and Facebook)
 
 #### Other sites discussed
-- Old website: [Harford Honey](www.HarfordHoney.com)
+- Old website: [Harford Honey](www.harfordhoney.com)
 - Related groups: [Inland Empire Beekeepers Association](http://inlandempirebeekeepersassociation.com)
 - Engaging blogs such as [Honey Bee Suite](https://honeybeesuite.com/blog/) or [cushman.net](http://cushman.net)
 - Educational like [Scientific Beekeeping.com](http://scientificbeekeeping.com/)
 
 What will keep the users on the site? Will they keep coming back?
-	frequent updates, blog posts, events
+- Frequent updates to blog
+- New upcoming events
 
 
+## Attributions
+- Bootstrap template
+- Hex background image used under Creative Commons CC0, care of [Pixabay.com](www.pixabay.com)
+- All other images are property of Joe Lewis.
 

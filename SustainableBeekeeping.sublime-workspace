@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inter",
+				"interests-toggler\t(index.html)"
+			],
+			[
+				"ed",
+				"education-toggler\t(index.html)"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"header",
+				"header-intro\t(index.html)"
+			],
+			[
+				"comp",
+				"composition-and-arrangement\t(music-theory.html)"
+			],
+			[
+				"chor",
+				"chords-and-harmony\t(music-theory.html)"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"clss",
+				"class\tAttr"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "spr",
+		"selected_items":
+		[
+			[
+				"spr",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"sort",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"File: Save All"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/SustainableBeekeeping"
+	],
+	"file_history":
+	[
+		"/Users/Jon/Desktop/MSTU Final Project - Sustainable Beekeeping.md",
+		"/Users/Jon/Google Drive/R Projects/HUDK4051/HUDK-4051-assignment6/app.R",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Multidimensional Scaling & Clustering/Assignments/Assignment 11 - Nonhierarchical Clustering/Assignment11-NonhierarchicalClustering-StelmanJonathan.txt",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Multidimensional Scaling & Clustering/Assignments/Assignment 11 - Nonhierarchical Clustering/Assignment 11",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/5003midterm/Mentor/index.html",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Multidimensional Scaling & Clustering/Assignments/Assignment 11 - Nonhierarchical Clustering/olympic names.txt",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Multidimensional Scaling & Clustering/Assignments/Assignment 11 - Nonhierarchical Clustering/olympic data.txt",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/MSTU-5003-Midterm/form-handler.php",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/MSTU-5003-Midterm/css/style.css",
+		"/Users/Jon/Google Drive/R Projects/HUDM5124/Assignment10-HierarchicalClustering/crime.cols1-4",
+		"/Users/Jon/Google Drive/R Projects/HUDM5124/Assignment10-HierarchicalClustering/crime.city.txt",
+		"/Users/Jon/Google Drive/R Projects/HUDM5124/Assignment10-HierarchicalClustering/crime.cols5-7",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Midterm/reflection.md",
+		"/Users/Jon/Google Drive/Classes-TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Midterm/README.md",
+		"/Users/Jon/Documents/MSTU-5003-PersonalWebsite/README.md",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Coding 101/color-exercise-02-07.css",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Coding 101/color-exercise-02-07.html",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Coding 101/style.css",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Coding 101/coding101.sublime-project",
+		"/Users/Jon/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Jon/Desktop/untitled.html",
+		"/Users/Jon/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Jon/Google Drive/Renaissance/NLTK.ipynb",
+		"/Users/Jon/.bashrc",
+		"/Users/Jon/.bash_profile",
+		"/Users/Jon/anaconda3/bin/virtualenvwrapper.sh",
+		"/Users/Jon/.bash_profile.swp",
+		"/Users/Jon/Library/Preferences/com.apple.ink.inkpad.sketch",
+		"/Users/Jon/Google Drive/R Markdown CS",
+		"/Users/Jon/Library/Preferences/com.apple.ink.inkpad.plist",
+		"/Users/Jon/Library/Preferences/com.apple.ink.inkpad.plist.jMJxa34",
+		"/Users/Jon/Library/Preferences/com.apple.ink.inkpad.plist.QVczRIE",
+		"/Users/Jon/Library/Preferences/com.apple.ink.inkpad.plist.ci30Q9z",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/AssignedReadings/csv_to_taskpaper.R",
+		"/Users/Jon/Google Drive/Classes - TC/2016.2 Spring Term/assignedreadings/readingassignments.csv",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/assignment6/Assignment6.Rmd",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/assignment5/Assignment 5.Rmd",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/assignment4/assignment4.Rmd",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/class7/Class 7 Instructions 2.Rmd",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/Class5/README.md",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/Assignment1.1/README.md",
+		"/Users/Jon/Google Drive/Classes - TC/2016.1 Autumn Term/CoreMethodsInEDM-HUDK4050/Projects/Assignment1/README.md",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.0A145C4E-FDE7-4ED0-966B-ADDC82166A3A/packal/package.xml",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/action.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/callback.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/main.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/packal/package.xml",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/demo.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/phpunit.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/phpunit.xml",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/src/Request.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/src/Session.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/src/SpotifyWebAPI.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/src/SpotifyWebAPIException.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/tests/RequestTest.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/tests/SessionTest.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/vendor/jwilsson/spotify-web-api-php/tests/SpotifyWebAPITest.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Control.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Detail.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/DetailAlbum.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/DetailArtist.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Helper.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Main.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Menu.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Search.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Settings.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/Setup.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Menus/SetupCountryCode.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/Spotifious/Spotifious.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/OhAlfred.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/HTTP/JsonFetcher.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/HTTP/Fetcher.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Exceptions/StatefulException.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Exceptions/IStatefulException.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Command/Timeout.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Command/Command.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Applescript/ApplicationApplescript.php",
+		"/Users/Jon/Google Drive/Other/Alfred/Alfred.alfredpreferences/workflows/user.workflow.2EE25AE4-DA8C-4EE0-81EC-9EAF5F33D17F/src/citelao/OhAlfred/Applescript/Applescript.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[1-10]",
+			"[a-z]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SustainableBeekeeping.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/Classes - TC/2016.2 Spring Term/Theory and Programming of Interactive Media/Coding 101/coding101.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
