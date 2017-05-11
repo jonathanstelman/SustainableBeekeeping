@@ -3,27 +3,22 @@ MSTU-5003 Final Project
 2017 April-May
 
 ## Problem Statement
-- Many get into beekeeping as a hobby. They enjoy working outside, producing honey, sharing their product with others, experimenting to see how to increase their yields.
-- By their third year, most new beekeepers have lost a lot of bees. The queen dies, and the colony collapses.
-- At this point, many get frustrated, and most beekeepers don’t last more than three years as a result
+Many novice beekeepers enter beekeeping as a hobby. At its surface, beekeeping is an inviting hobby. People are drawn to beekeeping because it allows people to work with their hands, get outdoors, and produce a delightful product that can be shared with others. There is also plenty of room for experimenting and problem solving to see how to improve the quality or yield of honey.
+However, for most beekeepers it is hard to sustain the hobby for more than three years. After this time, bee colonies tend to die off. If the queen bee dies, reproduction comes to an abrupt halt, and the colony collapses. At this point, even the most passionate beekeepers may become frustrated by seeing their colony collapse, and give up their hobby. It can be very hard to find useful information about sustaining bee colonies. Many resources are obscured by scientific jargon or are spread out across different media in an incoherent fashion.
 
 ## Purpose
-- This site is designed to help encourage these frustrated beekeepers, to support them by offering helpful suggestions and insights that will help these beekeepers.
+This website is designed to help encourage and support these frustrated beekeepers by offering helpful suggestions and insights that these beekeepers can use to not only keep a bee colony alive, but to even expand it to multiple colonies so they can grow their operations year over year. It will aggregate diverse resources, and sequence the information so different types of learners will be able to easily find information they can use right away.
 
 ## Users
- #### Beekeepers from around the world. They...
-- are intermediate to advanced in beekeeping experience
-- have been in beekeeping more than 3 years
+#### Profile
+Users of this website include beekeepers from all over the world. All age groups are represented. They...
+- have at least a beginner's background in beekeeping.
 - know the challenges, and have struggled to keep a hive three years.
 - are seeing things that aren’t working, but don't know how to find approaches that will work.
 - want to invest more time into the process to ensure their hobby will last for a long time.
 
-#### Users will be directed to the site
-- by word of mouth
-	- beekeeper community
-	- beekeeper clubs (Susquehanna Valley Beekeepers Association)
-	- Talks
-- Social media outreach (newly created complementary Twitter and Facebook accounts)
+#### User interaction with site
+Users will be directed to the website either through word-of-mouth, or by the recommendation of some other beekeeping resource online. Beekeeper communities tend to be very supportive of one another. There are clubs all over the country and world, and the client is an regular speaker at club meetings (Susquehanna Valley Beekeepers Association) and public outreach events. The client already has a number of popular and highly-recommended resources online (YouTube, articles written on other sites, podcast interviews), and so many will come to the site knowing to expect expert and friendly advice. The client also hopes to capitalize on social media outreach, generating a following on both Twitter and Facebook, in order to direct traffic to his site.
 
 ## Content
 #### Description of content

@@ -1,0 +1,285 @@
+/*!
+ * Start Bootstrap (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    font-family: 'Nunito', "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: url('../img/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: "Nunito", cursive, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #000;
+}
+
+hr {
+    max-width: 400px;
+    border-color: #aaa;
+}
+
+.brand,
+.address-bar {
+    font-family: 'Nunito', cursive;
+    display: none;
+}
+
+.btn {
+    font-family: 'Raleway', 'Helvetica', sans-serif;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+
+.img-full {
+    min-width: 100%;
+}
+
+.brand-sub,
+.brand-name {
+    text-transform: capitalize;
+}
+
+.brand-sub {
+    margin: 15px 0;
+}
+
+.brand-name {
+    margin: 0;
+    font-size: 3em;
+}
+
+.tagline-divider {
+    margin: 15px auto 3px;
+    max-width: 250px;
+    border-color: #aaa;
+}
+
+.box {
+
+    margin-bottom: 10px;
+    padding: 20px;
+    background: #fff;
+    background: rgba(255,255,255,0.5);
+}
+
+.box-invisible {
+    background: rgba(255,255,255,0);
+    margin-bottom: 0px;
+}
+
+.intro-text {
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.img-border {
+    float: none;
+    margin: 0 auto 0;
+    border: #aaa solid 1px;
+}
+
+.img-left {
+    float: none;
+    margin: 0 auto 0;
+}
+
+.ul-content {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25em;
+    line-height: 1.6;
+    color: #000;
+    padding-left: 100px;
+}
+
+footer {
+    background-image: url(../img/navbarbg.jpg);
+}
+
+footer p {
+    text-transform: uppercase;
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    font-size: 1.25em;
+    font-weight: 500;
+    color: #222;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+@media screen and (min-width:768px) {
+    .brand {
+        display: inherit;
+        margin: 0;
+        padding: 30px 0 10px;
+        text-align: left;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+        font-family: 'Nunito', cursive, "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 5em;
+        font-weight: 700;
+        line-height: normal;
+        color: #fff;
+    }
+
+    .top-divider {
+        margin-top: 0;
+    }
+
+    .img-left {
+        float: left;
+        margin-right: 25px;
+    }
+
+    .img-right {
+        float: right;
+        margin-left: 25px;
+    }
+
+   .center {
+    margin: auto;
+    width: 50%;
+}
+
+.address-bar {
+    display: inherit;
+    margin: 0;
+    padding: 0 0 40px;
+    text-align: center;
+    /*text-shadow: 1px 1px 2px rgba(0,0,0,0.5);*/
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-header {
+    display: none;
+}
+
+.navbar {
+    min-height: 0;
+}
+
+.navbar-default {
+    border: none;
+    background: rgba(226,188,70,0.9);
+    background-image: url(../img/navbarbg.jpg);
+}
+
+.nav>li>a {
+    padding: 10px;
+}
+
+.navbar-nav>li>a {
+    line-height: normal;
+}
+
+.navbar-nav {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    table-layout: fixed;
+    font-size: 1.25em;
+}
+
+@media screen and (min-width:1200px) {
+    .box:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+
+#navbar-pad {
+    padding-top: 30px;
+}
+
+#navbar-active {
+    background-color: #000;
+    color: rgb(251,231,168);
+}
+
+a {
+    color: #db9f00;
+}
+.event-name {
+    text-decoration: underline;
+    margin: 0 !important;
+}
+
+.event-date {
+    float: right;
+    margin: 0 !important;
+}
+
+.social {
+    /*text-align: center;*/
+    /*background-color: rgba(255,255,255,.5)*/
+
+}
+
+#bee-spinner {
+    display: block;
+    margin: auto;
+ }
+
+#img-main {
+    width:200px;
+    height: auto;
+}
+
+#img-about {
+    width:400px;
+    height: auto;
+}
+
+#img-blog1 {
+    width:220px;
+    height: auto;
+}
+
+#img-blog2 {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+.hide-block {
+    display: none !important;
+}

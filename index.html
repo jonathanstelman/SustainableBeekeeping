@@ -10,11 +10,12 @@
     <title>Sustainable Beekeeping</title>
 
     <!-- Styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/form.css" rel="stylesheet">
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Open+Sans" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Nunito:100,300|Indie+Flower|Raleway" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -33,49 +34,155 @@
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.html">Sustainable Beekeeping</a></li>
-                    <li><a href="videos.html">Videos</a></li>
-                    <li><a href="articles.html">Articles</a></li>
-                    <li><a href="calendar.html">Bee Calendar</a></li>
+                <ul class="nav navbar-nav navbar-left">
+                    <li><a id="navbar-active" href="#">Sustainable Beekeeping</a></li>
+					<li>
+                        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="articles.html">Articles</a></li>
+                            <li><a href="videos.html">Videos</a></li>
+                            <li><a href="calendar.html">Queen Rearing Calendar</a></li>
+                        </ul>
+                    </li>
                     <li><a href="honey.html">Honey</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="about.html">About Harford Honey</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="social"><a href="https://twitter.com/beekeeping"><img alt="Follow @beekeeping on Twitter!" src="img/twitter-black.png" width="23" height="23"></a></li>
+                	<li class="social"><a href="https://facebook.com/beekeeping"><img alt="Follow @beekeeping on Facebook!" src="img/facebook-black.png" width="23" height="23"></a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
+    	<p id='navbar-pad'></p>
 
-	<h2>Blog Post 1</h2>
-	<h3 id="blog-1" class="blog-title">Blog Title</h3>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-
-
-<!-- Follow on Twitter Button
-	<a href="https://twitter.com/TwitterDev" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
-<!-- Twitter Timeline
-	<a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" data-link-color="#FAB81E" href="https://twitter.com/SustainableBeekeeping">Tweets by SustainableBeekeeping</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
-
-<footer>
+    <!-- Page Title -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Sustainable Beekeeping 2017</p>
+            <div class="box box-invisible">
+                <div class="box col-lg-12 text-center">
+                 	<h1 class="brand-name">Sustainable Beekeeping</h1>
+                 	<h2 class="brand-sub"><small>By Joe Lewis</small></h2>
+                </div>
             </div>
         </div>
-    </div>
-</footer>
 
-<!-- Javascript Dependencies -->
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/script.js"></script>
+
+        <!-- Main Left Content Window-->
+        <div class="col-lg-8 col-md-8 box-invisible">
+            <div class="row">
+                <div class="box col-lg-12 col-md-12" id="intro-text">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>About Sustainable Beekeeping</strong></h2>
+                    <hr>
+                    <img id="img-main" class="img-responsive img-border img-right" src="img/joe-lewis.jpg" alt="Joe Lewis Photo">
+                    <p>This paragraph introduces the website.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+
+            <div class="row">
+	            <div class="box col-lg-12 col-md-12"  id="blog-post-1">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Blog Post 1 Title</strong></h2>
+                    <h3 class="intro-text text-center">May 10, 2017</h3>
+                    <hr>
+
+					<img id="img-blog1" class="img-responsive img-border img-left" src="img/bees2.jpg" alt="Bees on honeycomb">
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+        	</div>
+
+        	<div class="row">
+            	<div class="box col-lg-12 col-md-12"  id="blog-post-2">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Blog Post 2 Title</strong></h2>
+                    <h3 class="intro-text text-center">May 5, 2017</h3>
+                    <hr>
+
+					<img class="center-block" src="img/hive-boxes.jpg" alt="Joe with hive boxes">
+					<br>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+            	<div class="box col-lg-12 col-md-12"  id="blog-post-3">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Blog Post 3 Title</strong></h2>
+                    <h3 class="intro-text text-center">May 1, 2017</h3>
+                    <hr>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+            </div>
+        </div>  <!-- End Main Content Window-->
+
+        <!-- Sidebar Content Window-->
+        <div class="col-lg-4 col-md-4">
+            <div class="box col-lg-12 col-md-12" id="contact-form">
+                <hr>
+                <h2 class="intro-text text-center"><strong>Contact Joe</strong></h2>
+			</div>
+
+			<div class="box col-lg-12 col-md-12" id="events">
+                <hr>
+                <h2 class="intro-text text-center"><strong>Upcoming Events</strong></h2>
+                <hr>
+                <p class="event-name"><a href="#"><strong>Conference Talk</strong></a></p>
+                <p class="event-date">June 15, 2017</p>
+                <br>
+                <p class="event-name"><a href="#"><strong>Beekeepers Association</strong></a></p>
+                <p class="event-date">July 12, 2017</p>
+                <br>
+                <p class="event-name"><a href="#"><strong>Public Library</strong></a></p>
+                <p class="event-date">August 3, 2017</p>
+			</div>
+
+            <div class="box col-lg-12 col-md-12">
+                <hr>
+                <h2 class="intro-text text-center"><strong>Follow Sustainable Beekeeping</strong></h2>
+                <hr>
+                <hr class="visible-xs">
+                	<div col-lg-12 col-md-12 col-sm-12 id="social">
+                		<a href="https://twitter.com/beekeeping"><img alt="Follow @beekeeping on Twitter!" src="img/Twitter_Logo_Blue.png" width="50" height="50" hspace="10" vspace="10"></a>
+                		<span></span>
+                		<a href="https://facebook.com/beekeeping"><img alt="Follow @beekeeping on Facebook!" src="img/FB-f-Logo__blue_144.png" width="50" height="50" hspace="10" vspace="10"></a>
+                	</div>
+			</div>
+
+			<div class="box col-lg-12 col-md-12">
+                <hr>
+                <h2 class="intro-text text-center"><strong>Sustainable Beekeeping on Twitter</strong></h2>
+				<hr>
+				<a class="twitter-timeline" data-width="320" data-height="600" data-theme="light" data-link-color="#FAB81E" href="https://twitter.com/beekeeping">Tweets by SustainableBeekeeping</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+        </div> <!-- End Sidebar Content Window-->
+    </div> <!-- End Container -->
+
+	<footer>
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-lg-12 text-center">
+	                <p>Copyright &copy; Sustainable Beekeeping 2017</p>
+	            </div>
+	        </div>
+	    </div>
+	</footer>
+
+	<!-- Javascript Dependencies -->
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/script.js"></script>
+
+	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<script src="js/form.js"></script>
 
 </body>
 </html>
