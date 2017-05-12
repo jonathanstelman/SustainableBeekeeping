@@ -1,2 +1,9 @@
 # Final Project Reflection
+MSTU-5003 Final Project
+2017 April-May
 
+My midterm assignment challenged me to consider the forces that make revisiting a website worthwhile to users. In designing a website for Serious Ukulele players, I imagined that those visiting the site would already come to the site looking for something serious. I designed a site for those people, and did nothing to engage others, or convince people who do not believe the ukulele can be a serious instrument that they might need to reconsider.
+
+In designing Sustainable Beekeeping, I found myself falling in the same trap. By the clients’ specs, the site was built for a specific user (a novice beekeeper on the verge of becoming an expert). The users are assumed to be interested in the topic; the engagement of amateur beekeepers, or even prospective beekeepers, was not something that was explicitly discussed. I tried to be mindful of this, and ensure that the site can also be engaging for those with less experience. Much of this comes down to the content, which I was not able to control. However, it is important to have this conversation with the client to ensure that he is able to capture the interests of his largest potential audience.
+
+In many ways, this sales-oriented element of design runs counter to my natural tendencies. I tend to be very accepting of others’ interests, and try not to foist my own interests on others. This may work well in everyday interactions, but is not a good strategy for marketing. Selling a thing is largely about being obnoxiously enthusiastic, and convincing others that they should buy into your idea. This may put off some, but it is likely to attract many more. Though I am no more sympathetic to sales, I understand that the benefits of positively impacting a larger audience will in many cases outweigh the risk of putting off a few people who already disagree with what you are selling.
